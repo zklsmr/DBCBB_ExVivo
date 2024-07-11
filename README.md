@@ -14,7 +14,8 @@ Find me @zklsmr anywhere, and feel free to reach out if you have any comments/su
 
 ![version](https://img.shields.io/badge/version-0.1.0alpha-blue)![docs](https://img.shields.io/badge/docs-passing-green)
 
-![license](https://img.shields.io/badge/license-MIT-yellow)![awesomeness](https://img.shields.io/badge/awesomeness-100%-red)
+![license](https://img.shields.io/badge/license-MIT-yellow)![Static Badge](https://img.shields.io/badge/awesomeness-100%25-red?color=red)
+
 
 
 
