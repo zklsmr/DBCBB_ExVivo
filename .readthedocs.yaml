@@ -1,7 +1,11 @@
+version: 2
+
 build:
-  image: latest
+  os: ubuntu-22.04
+  tools:
+    python: "3.12"
 
-python:
-  version: 3.10
+sphinx:
+  configuration: docs/conf.py
 
-requirements_file: requirements.yml
+# requirements_file: requirements.yml
