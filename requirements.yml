@@ -1,0 +1,16 @@
+name: DBCBB_ExVivo
+channels:
+  - defaults
+  - conda-forge
+  - mrtrix3
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - scipy
+  - statsmodels
+  - tqdm
+  - mrtrix3
+  - scikit-learn
+  - nilearn
+  - nibabel
