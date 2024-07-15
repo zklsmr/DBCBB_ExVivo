@@ -1,4 +1,4 @@
-# Preprocessing tools for multimodal ex-vivo MRI
+# <u>M</u>ultimodal <u>O</u>ptimized <u>R</u>adiomics <u>T</u>oolbox for exvivo <u>A</u>na<u>L</u>ysis (MORTAL)
 
 ### Authors: Zaki Alasmar, Yashar Zeighami, Mahsa Dadar
 
