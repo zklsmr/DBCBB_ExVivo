@@ -1,4 +1,4 @@
-name: DBCBB_ExVivo
+name: MORTAL
 channels:
   - defaults
   - conda-forge

@@ -1,8 +1,8 @@
-Welcome to DBCBB_ExVivo's documentation!
+Welcome to MORTAL's documentation!
 ========================================
 
-.. module:: DBCBB_ExVivo
-    :synopsis: A set of functions to perform large-scale ex-vivo imaging preprocessing. 
+.. module:: MORTAL
+    :synopsis: Multimodal Optimized Radiomics Toolbox for exvivo AnaLysis (MORTAL). A set of functions to perform large-scale ex-vivo imaging preprocessing. 
 
 
 This documentation details the preprocessing tools developed:
@@ -13,9 +13,9 @@ This documentation details the preprocessing tools developed:
 -------------------------------------------------------------
 
 Currently in 0.1.0alpha, the tools are in development and are not yet fully functional.
--------------------------------------------------------------
-This version can only be used with ex-vivo diffusion imaging data, and can perform diffusion tensor fitting, fibre orientation distribution fitting, and determinstic, 
-probabilsitic, and constrained spherical tractography.
+----------------------------------------------------------------------------------------
+This version can be used with ex-vivo diffusion imaging data, and can perform diffusion tensor fitting.
+It can also be used with ex-vivo structural imaging data, and can perform basic preprocessing bias field correction.
 
 
 Reference Us!

@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'DBCBB_ExVivo'
+project = 'MORTAL'
 copyright = '2024, Zaki Alasmar'
 author = 'Zaki Alasmar'
 release = '0.1.0alpha'
